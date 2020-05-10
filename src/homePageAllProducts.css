@@ -1,0 +1,32 @@
+.product-container {
+    background-color: #fafafa;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.user {
+    margin-left: 0.5em;
+}
+
+.username-homepage {
+    display: flex;
+    padding: 0.3em;
+    margin: 1em;
+    justify-content: center;
+    font-weight: 700;
+}
+
+.filter-actions {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.products-search {
+    margin-left: 0.7em;
+    width: 30%;
+    padding: 0.3em 0.3em;
+    border-radius: 5px;
+    border: 2px solid #a6a6a6;
+}

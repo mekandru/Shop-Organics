@@ -1,0 +1,18 @@
+.review-area {
+    width: 15%;
+    border-radius: 5px;
+    border: 2px solid #0D47A1;
+}
+
+.add-review {
+    background-color: #0D47A1;
+    color: white;
+    padding: 0.4em 2em;
+    border-radius: 5px;
+    border: 2px solid #0D47A1;
+}
+
+.review-selection {
+    border-radius: 5px;
+    border: 2px solid #0D47A1;
+}
